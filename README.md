@@ -1,3 +1,5 @@
+![Aviation Hacking Banner](./aviationbanner.png)
+
 # hack-aviation-library
 A collection of learning resources for budding aviation security researchers (aka hackers). Learn so we can secure aviation from design to implementation! 
 
