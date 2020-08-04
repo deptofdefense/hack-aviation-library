@@ -38,6 +38,6 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 - Daniel Allen (dan@dds.mil)
 - Nick Ashworth (nick.ashworth@dds.mil)
 
-**Also check out our [Satellite Hacking Resource Library](https://github.com/deptofdefense/hack-a-sat-library)**
+## **Also check out our [Satellite Hacking Resource Library](https://github.com/deptofdefense/hack-a-sat-library)**
 
 [<<<Back to Top](#hack-aviation-library)
