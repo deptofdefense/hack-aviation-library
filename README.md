@@ -69,6 +69,7 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 - You Can Hijack Nearly Any Drone Using This Tiny Gadget by Wang Wei (https://thehackernews.com/2016/10/how-to-hack-drone.html)
 
 ### Miscellaneous
+- MIL-STD-1553 Publication (https://snebulos.mit.edu/projects/reference/MIL-STD/MIL-STD-1553B.pdf)
 
 ## CONTACTS
 ### Aviation Security Contacts
