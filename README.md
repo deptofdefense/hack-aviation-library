@@ -53,6 +53,8 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 - Can Aircraft Be Hacked?! This pilot explains various attack surfaces in commercial aircraft (https://www.youtube.com/watch?v=rVs8RSA8UMs)
 
+- Spacecraft Technology: Data Busses (https://www.youtube.com/watch?v=dD7VwwlGRw8)
+
 
 ### Books and White Papers
 - Cybersecurity in Civilian Aviation:  Insights for Advanced Nuclear Technologies (http://fhr.nuc.berkeley.edu/wp-content/uploads/2017/04/UCB-TH-17-001-Cybersecurity-in-Civilian-Aviation.pdf)
