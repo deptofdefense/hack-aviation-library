@@ -17,6 +17,13 @@ Called Bricks in the Air, in this series of four workshops, you will attempt to 
 For 2020, the workshops will be held in Safemode at Def Con via Twitch streams.  Checkout [dds-virtual.com](https://dds-virtual.com/) to access the workshops, otherwise, see the [github repo](https://github.com/deptofdefense/dds-at-DEFCON/blob/master/README.md) for the deets on game play for each of the work shops!
 
 ### Articles and Op-Eds
+- How To Hack an Aircraft by Kate O-Flaherty (https://www.forbes.com/sites/kateoflahertyuk/2018/08/22/how-to-hack-an-aircraft)
+
+- In-Flight Airplanes Can Now Be Hacked from the Ground, Cyber Expert Warns by Jason Murdock (https://www.newsweek.com/flight-airplanes-can-now-be-hacked-ground-cyber-expert-warns-962420)
+
+- The Air Force Will Let Hackers Try to Hijack an Orbiting Satellite by Brian Barrett (https://www.wired.com/story/air-force-defcon-satellite-hacking)
+
+- GAO Warns of Cyber Risks In-Flight by Paul Roberts (https://www.securityledger.com/2015/04/gao-warns-of-cyber-risks-in-flight)
 
 ### Web Sites
 
