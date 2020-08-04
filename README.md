@@ -1,13 +1,6 @@
 # hack-aviation-library
 A collection of learning resources for budding aviation security researchers (aka hackers). Learn so we can secure aviation from design to implementation! 
 
-----|------------|-----------|----
-    |        --/ - \--       |
-   -|---------|  o  |--------|-
-              /\ _ /\
-           []/       \[]
-               
-
 *Note: This is an evolving resource, so please [contribute](./aviationlibrary-contribute-instrxns.md) with a pull request*
 
 **Jump To**: [Web sites](#web-sites) | [Articles and Op-Eds](#articles-and-op-eds) | [Tools and Projects](#tools-and-projects) | [Videos](#videos) | [Books and White Papers](#books-and-white-papers) | [Programming Libraries](#programming-libraries) | [Miscellaneous](#miscellaneous) | [Contacts](#contacts)
