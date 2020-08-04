@@ -62,6 +62,12 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 - DEF CON 23: Knocking my neighbors kids cruddy drone offline (https://www.youtube.com/watch?v=5CzURm7OpAA)
 
+- Drone Hacking - A Cybersecurity Nightmare (https://www.dronesinsite.com/drone-news/drone-hacking-a-cybersecurity-nightmare/)
+
+- Hack Your Own Drone (https://drone-hacks.com/)
+
+- You Can Hijack Nearly Any Drone Using This Tiny Gadget by Wang Wei (https://thehackernews.com/2016/10/how-to-hack-drone.html)
+
 ### Miscellaneous
 
 ## CONTACTS
