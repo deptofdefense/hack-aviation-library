@@ -49,7 +49,9 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 - DEF CON 20: Hackers + Airplanes (https://www.youtube.com/watch?v=CXv1j3GbgLk)
 
-- DEF CON 27: Behind the scenes of hacking airplanes (https://www.youtube.com/watch?v=IgKsH6BzQWY&t=838s)
+- DEF CON 27: Behind the scenes of hacking airplanes (https://www.youtube.com/watch?v=IgKsH6BzQWY)
+
+- Can Aircraft Be Hacked?! This pilot explains various attack surfaces in commercial aircraft (https://www.youtube.com/watch?v=rVs8RSA8UMs)
 
 
 ### Books and White Papers
