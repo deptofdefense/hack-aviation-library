@@ -25,6 +25,10 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 - GAO Warns of Cyber Risks In-Flight by Paul Roberts (https://www.securityledger.com/2015/04/gao-warns-of-cyber-risks-in-flight)
 
+- Coming Cybersecurity Mandates May Have Implications for Military Aircraft by Frank Wolfe (https://www.defensedaily.com/coming-cybersecurity-mandates-may-implications-military-aircraft/cyber/)
+
+- The F-35's Greatest Vulnerability Isn't Enemy Weapons. It's Being Hacked. by Kyle Mizokami (https://www.popularmechanics.com/military/aviation/a25100725/f-35-vulnerability-hacked/)
+
 ### Web Sites
 
 ### Tools and Projects
