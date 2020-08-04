@@ -30,6 +30,12 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 - The F-35's Greatest Vulnerability Isn't Enemy Weapons. It's Being Hacked. by Kyle Mizokami (https://www.popularmechanics.com/military/aviation/a25100725/f-35-vulnerability-hacked/)
 
 ### Web Sites
+- **DDS Workshops at Aerospace Village**  (https://github.com/deptofdefense/dds-at-DEFCON)
+
+- **Aerospace Village Website** (https://aerospacevillage.org/defcon-28/)
+
+- **Flight Control Systems Research** (https://www.sciencedirect.com/topics/engineering/flight-control-systems)
+
 
 ### Tools and Projects
 - **LEGO Raspberry Pi Project:** Replace Lego’s $190 Intelligent Brick with MIT’s Scratch and a $40 Raspberry Pi (https://spectrum.ieee.org/geek-life/hands-on/replace-legos-190-intelligent-brick-with-mits-scratch-and-a-40-raspberry-pi)
