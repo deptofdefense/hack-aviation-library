@@ -3,7 +3,7 @@ A collection of learning resources for budding aviation security researchers (ak
 
 *Note: This is an evolving resource, so please [contribute](./aviationlibrary-contribute-instrxns.md) with a pull request*
 
-**Jump To**: [Web sites](#web-sites) | [Articles and Op-Eds](#articles-and-op-eds) | [Tools and Projects](#tools-and-projects) | [Videos](#videos) | [Books and White Papers](#books-and-white-papers) | [Programming Libraries](#programming-libraries) | [Miscellaneous](#miscellaneous) | [Contacts](#contacts)
+**Jump To**: [Web sites](#web-sites) | [Articles and Op-Eds](#articles-and-op-eds) | [Tools and Projects](#tools-and-projects) | [Videos](#videos) | [Books and White Papers](#books-and-white-papers) | [Programming Libraries](#programming-libraries) | [Oh and Drones!](#Oh-and-Drones!) | [Miscellaneous](#miscellaneous) | [Contacts](#contacts)
 
 ## BACKGROUND
 
@@ -23,6 +23,8 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 ### Videos
 
 ### Books and White Papers
+
+### Oh and Drones!
 
 ### Miscellaneous
 
