@@ -51,11 +51,16 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 
 ### Books and White Papers
+- Cybersecurity in Civilian Aviation:  Insights for Advanced Nuclear Technologies (http://fhr.nuc.berkeley.edu/wp-content/uploads/2017/04/UCB-TH-17-001-Cybersecurity-in-Civilian-Aviation.pdf)
+
+- Aircraft Cybersecurity: The Pilot's Perspective (https://www.rtca.org/sites/default/files/symposium_2017_cybersecurity_white_paper_digital.pdf)
+
+- F-35 Lightning II Technology Overview (https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/webt/F-35_Air_Vehicle_Technology_Overview.pdf)
 
 ### Oh and Drones!
-- DEF CON 23: Knocking my neighbors kids cruddy drone offline (https://www.youtube.com/watch?v=5CzURm7OpAA)
-
 - Counter-Drone SWAT Teams (https://breakingdefense.com/2020/02/defense-digital-service-builds-counter-drone-swat-team-asap/)
+
+- DEF CON 23: Knocking my neighbors kids cruddy drone offline (https://www.youtube.com/watch?v=5CzURm7OpAA)
 
 ### Miscellaneous
 
