@@ -50,6 +50,9 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 ### Books and White Papers
 
 ### Oh and Drones!
+- DEFCON23: Knocking my neighbors kids cruddy drone offline (https://www.youtube.com/watch?v=5CzURm7OpAA)
+
+- Counter-Drone SWAT Teams (https://breakingdefense.com/2020/02/defense-digital-service-builds-counter-drone-swat-team-asap/)
 
 ### Miscellaneous
 
