@@ -33,10 +33,13 @@ For 2020, the workshops will be held in Safemode at Def Con via Twitch streams. 
 
 ### Tools and Projects
 - **LEGO Raspberry Pi Project:** Replace Lego’s $190 Intelligent Brick with MIT’s Scratch and a $40 Raspberry Pi (https://spectrum.ieee.org/geek-life/hands-on/replace-legos-190-intelligent-brick-with-mits-scratch-and-a-40-raspberry-pi)
-- **ATmega328 Project** Learn about the microcontroller onboard the Lego Crafts and use it to create a music box (https://dronebotworkshop.com/arduino-uno-atmega328/)
+
+- **ATmega328 Project:** Learn about the microcontroller onboard the Lego Crafts and use it to create a music box (https://dronebotworkshop.com/arduino-uno-atmega328/)
+
 - **Understanding the Embedded Controls in Aviation:** An overview of the control systems used to control components of aircrafts (https://en.wikibooks.org/wiki/Embedded_Control_Systems_Design/Aviation)
 
 ### Videos
+- DEFCON20: Hackers + Airplanes (https://www.youtube.com/watch?v=CXv1j3GbgLk)
 
 ### Books and White Papers
 
