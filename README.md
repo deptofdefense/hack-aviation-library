@@ -8,6 +8,7 @@ A collection of learning resources for budding aviation security researchers (ak
 **Jump To**: [Web sites](#web-sites) | [Articles and Op-Eds](#articles-and-op-eds) | [Tools and Projects](#tools-and-projects) | [Videos](#videos) | [Books and White Papers](#books-and-white-papers) | [Programming Libraries](#programming-libraries) | [Oh and Drones!](#Oh-and-Drones!) | [Miscellaneous](#miscellaneous) | [Contacts](#contacts)
 
 ## BACKGROUND
+In order to encourage more people to become interested in investigating aircraft vulnerabilities as well as understand the problems aircraft face, Bricks in the Air attempts to represent this problem in a simple and jargon free manner. By replacing the complex and unfamiliar 1553/429 buses with the more well known I2C data bus, we remove a lot of the jargon and confusion of the problem while allowing attendees to understand the core problem: Aircraft data buses are old and unsecure, and someone should fix that. 
 
 ## RESOURCES
 
